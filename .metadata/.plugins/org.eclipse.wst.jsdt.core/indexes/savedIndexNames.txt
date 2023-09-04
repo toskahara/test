@@ -1,7 +1,5 @@
-INDEX VERSION 1.4+C:\pleiades\2023-06\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2549986783.index
-968189744.index
-1280806821.index
-3271193799.index
-152132239.index
-1388230255.index
+INDEX VERSION 1.4+C:\pleiades\2023-06\newttt\新しいフォルダー\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+235367618.index
+3747270759.index
+349081490.index
+4232575979.index
